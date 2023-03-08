@@ -13,7 +13,7 @@
   <img align="center" alt="C" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Phyton" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">                
 </div>
- 
+
  <br>
  
   ### Minhas Redes Sociais
