@@ -24,6 +24,4 @@
   <a href="https://www.linkedin.com/in/filipe-manganelli-55b711268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/fbmanganelli"><img src="https://img.shields.io/twitter/url?color=gray&label=Twitter&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Ffbmanganelli" target="_blank"></a>
  
-  ![Snake animation](https://github.com/fbmanganelli/fbmanganelli/blob/output/github-contribution-grid-snake.svg)
-
 </div>
